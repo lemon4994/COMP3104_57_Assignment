@@ -1,3 +1,5 @@
 DevOps is very important to learn.
 It's a mindset that speeds up the development cycle by encouraging automation.
-Alongside that, there are a variety of very useful tools that assist in setting up automated pipelines or help implement DevOps in other ways
+Alongside that, there are a variety of very useful tools that assist in setting up automated pipelines
+Using these CI/CD pipelines reduces human error and enhances consistency, leading to faster and easier software releases
+The more fast paced nature of DevOps also boosts coworker adaptability and collaboration
