@@ -1,0 +1,3 @@
+DevOps is very important to learn.
+It's a mindset that speeds up the development cycle by encouraging automation.
+Alongside that, there are a variety of very useful tools that assist in setting up automated pipelines or help implement DevOps in other ways
