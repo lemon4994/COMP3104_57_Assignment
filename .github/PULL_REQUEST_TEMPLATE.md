@@ -1,5 +1,5 @@
 ## Description
-Please include a summary of hte changes and the related issue.
+Please include a summary of the changes and the related issue.
 
 ## Type of Change
 - [] Bug fix
