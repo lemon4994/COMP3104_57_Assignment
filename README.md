@@ -1,11 +1,13 @@
 # COMP3104_57_Assignment
-## by Nicholas Chiarello (101275986)
+- Leader : `Nicholas Chiarello`
+- Member : `Patel`
 
 ## Description
 Very simple repository that contains a few text files.
-Functions as proof I understand how to use git to commit and push file changes in a group
+Nicholas: `Functions as proof I understand how to use git to commit and push file changes in a group`
+Patel: `Helping students to complete the assignment and make them to understand the advantages of using DevOps tools.`
 
 ## Setting up locally
 - Clone the repository
 - Checkout to your own branch
-- Read the txt files I guess
+- Review the text files as you wish
